@@ -11,7 +11,7 @@ import com.java1234.entity.Role;
 
 public class MapAdapter extends XmlAdapter<MyRole[], Map<String,List<Role>>>{
 
-	/**
+	/**111
 	 * ÊÊÅä×ª»» MyRole[] -> Map<String, List<Role>>
 	 */
 	@Override
